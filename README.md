@@ -1,4 +1,4 @@
-# INTERNSHIP-02
+# TASK-02
 # 🌐 Satyesh Kumar Singh - Portfolio Website
 
 Welcome to my personal **Portfolio Website**, a clean, responsive, and fully customizable web app built with **HTML, CSS, and JavaScript**. It showcases my skills, projects, and experiences as a web developer.
