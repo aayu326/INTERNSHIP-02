@@ -4,7 +4,7 @@
 Welcome to my personal **Portfolio Website**, a clean, responsive, and fully customizable web app built with **HTML, CSS, and JavaScript**. It showcases my skills, projects, and experiences as a web developer.
 
 ## 🚀 Live Site
-👉 [Visit Now](aayulandingpage.netlify.app)
+👉 [Visit Now](https://app.netlify.com/projects/aayulandingpage/)
 
 ---
 
